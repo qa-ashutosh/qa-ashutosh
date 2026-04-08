@@ -3,16 +3,16 @@
 </div>  
   
 
-- 🔭I'm currently working on a Crypto Exchange Platform Simulator, a hands-on practice ground for QA engineers to test real-world financial systems  
+- 🔭 I'm currently working on a Crypto Exchange Platform Simulator, a hands-on practice ground for QA engineers to test real-world financial systems  
   
 
-- 🌱Building expertise in Web3/Blockchain testing, NFT ecosystems, and K6 performance engineering  
+- 🌱 Building expertise in Web3/Blockchain testing, NFT ecosystems, and K6 performance engineering  
   
 
-- ❓Ask me about anything related to QA Automation, Playwright frameworks, API testing, and Web3 quality engineering  
+- ❓ Ask me about anything related to QA Automation, Playwright frameworks, API testing, and Web3 quality engineering  
   
 
-- ⚡Fun fact: I break things professionally so others don't have to  
+- ⚡ Fun fact: I break things professionally so others don't have to  
   
 
 <br/>  
@@ -74,13 +74,13 @@
 </div>  
   
 
-<br/>  
+<!-- <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>   -->
   
 
 <br/>  
