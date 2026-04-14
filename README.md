@@ -94,3 +94,14 @@
 
 <div align="center"></div>
 <br />
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" />
+</p>
+
+<p align="center">
+  <b>⚡ Quickdraw</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>🦈 Pull Shark</b>
+</p>
