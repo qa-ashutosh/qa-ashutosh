@@ -1,24 +1,19 @@
 ### <div align="center">I'm Ashutosh, a Quality Engineering professional who helps teams across FinTech, Web3, Healthcare, IoT, eCommerce, Gaming, and SaaS ship reliable software 🎯, through well-architected automation frameworks, performance systems, and testing strategy 🔩. 
 -------
 </div>  
-  
 
 - 🔭 I'm currently working on a Crypto Exchange Platform Simulator, a hands-on practice ground for QA engineers to test real-world financial systems  
   
-
 - 🌱 Building expertise in Web3/Blockchain testing, NFT ecosystems, and K6 performance engineering  
-  
 
 - ❓ Ask me about anything related to QA Automation, Playwright frameworks, API testing, and Web3 quality engineering  
   
-
 - ⚡ Fun fact: I break things professionally so others don't have to  
   
-
 <br/>  
 
 
-## My Skill Set  
+## ⚙️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -62,46 +57,58 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/qa-ashutosh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ashutosh-parihar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <!-- <br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>   -->
-  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=qa-ashutosh&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" />
+<p align="center" style="display:flex; justify-content:center; gap:20px;">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85 " />
+
 </p>
 
 <p align="center">
-  <b>⚡ Quickdraw</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>🦈 Pull Shark</b>
+  <b>⚡ Quickdraw</b> &nbsp;|&nbsp; 
+  <b>🦈 Pull Shark</b> &nbsp;|&nbsp; 
+  <b>🔥 YOLO</b>
 </p>
+<br/>
+
+---
+
+<!-- CONNECT CTA -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center" style="margin-top: 12px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<a href="https://github.com/qa-ashutosh" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+       height="48"
+       style="border-radius: 12px;" />
+</a>
+
+<a href="https://linkedin.com/in/ashutosh-parihar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+       height="48"
+       style="border-radius: 12px;" />
+</a>
+
+</div>
+<br/>
+
+<p align="center">
+  <b>Open to collaborations in QA Automation, Web3 & Blockchain Testing <br>💬 DM me for consulting, mock interviews, or testing strategy</b>
+</p>
+
+<!-- Profile View Counter -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=qa-ashutosh&&style=flat&label=PROFILE+VIEWS&abbreviated=true" align="center" />
+</div>  
+
