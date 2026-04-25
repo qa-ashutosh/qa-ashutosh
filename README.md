@@ -24,11 +24,11 @@ name        : Ashutosh Parihar
 role        : Quality Engineering Architect
 philosophy  : "Reliability is a feature. I build it in."
 focus:
-  - Automation Frameworks   → Playwright · WebdriverIO · TestNG
+  - Automation Frameworks   → Playwright · Cypress · WebdriverIO · Selenium
   - API & Contract Testing  → REST · GraphQL · gRPC · Supertest
-  - Performance Engineering → K6 · JMeter · Grafana · InfluxDB
-  - Web3 / Blockchain QA    → Smart Contracts · NFT · DeFi · Ethers.js
-  - CI/CD Quality Gates     → Jenkins · GitLab CI · GitHub Actions
+  - Performance Engineering → K6 · Grafana · JMeter · InfluxDB
+  - Web3 / Blockchain QA    → Smart Contracts · NFT · DeFi · Foundry
+  - CI/CD Quality Gates     → GitHub Actions · Jenkins · GitLab CI 
 domains     : FinTech · Web3 · Healthcare · IoT · eCommerce · Gaming · SaaS
 status      : 🟢 Open to Consulting · Collaborations · Mock Interviews
 ```
