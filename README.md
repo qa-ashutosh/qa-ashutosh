@@ -201,45 +201,6 @@ const expertise = {
 
 ---
 
-<details>
-<summary><code>⚙️ Snake workflow setup — click to expand</code></summary>
-
-<br/>
-
-Create `.github/workflows/snake.yml` in your `qa-ashutosh/qa-ashutosh` profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once it runs once, the snake SVG is live at the URL used in the README above.
-
-</details>
-
-<br/>
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FFC8,50:0a1628,100:060910&height=120&section=footer&text=BREAK%20THINGS.%20SHIP%20RELIABLY.&fontSize=18&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
