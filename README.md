@@ -188,6 +188,8 @@ const expertise = {
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-parihar)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qa-ashutosh)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:workwith.ashutosh3@gmail.com)
 
 <br/>
 
