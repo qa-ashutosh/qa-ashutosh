@@ -41,17 +41,17 @@ status      : 🟢 Open to Consulting · Collaborations · Mock Interviews
 
 <div align="center">
 
-[![order-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/order-sentinel)
-[![qrypto](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/qrypto)
+[![order-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/order-sentinel)
+[![qrypto](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/qrypto)
 
-[![cicd-blueprints](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=cicd-blueprints&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/cicd-blueprints)
-[![playwright-hybrid-framework](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=playwright-hybrid-framework&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/playwright-hybrid-framework)
+[![cicd-blueprints](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=cicd-blueprints&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/cicd-blueprints)
+[![playwright-hybrid-framework](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=playwright-hybrid-framework&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=4)](https://github.com/qa-ashutosh/playwright-hybrid-framework)
 
-[![k6-performance-lab](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=k6-performance-lab&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/k6-performance-lab)
-[![solidity-core-labs](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=solidity-core-labs&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/solidity-core-labs)
+[![k6-performance-lab](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=k6-performance-lab&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/k6-performance-lab)
+[![solidity-core-labs](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=solidity-core-labs&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/solidity-core-labs)
 
-[![assert-gaurd](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=assert-gaurd&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/assert-gaurd)
-[![pipeline-forge](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=pipeline-forge&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=2)](https://github.com/qa-ashutosh/pipeline-forge)
+[![assert-gaurd](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=assert-gaurd&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/assert-gaurd)
+[![pipeline-forge](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=pipeline-forge&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/pipeline-forge)
 
 </div>
 
