@@ -130,6 +130,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
   SHIP WITH CONFIDENCE
 ```
 </div>
+
 ---
 
 ## `$ cat ./tech-stack.json`
