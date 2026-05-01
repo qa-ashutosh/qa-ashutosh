@@ -235,7 +235,8 @@ const qualityArchitect = {
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img height="175" src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&ring_color=00FFC8&count_private=true" /></td>
+    <!-- <td><img height="175" src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&ring_color=00FFC8&count_private=true" /></td> -->
+        <td><img height="175" src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&ring_color=00FFC8" /></td>
     <td><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-ashutosh&layout=compact&theme=transparent&hide_border=true&title_color=00FFC8&text_color=e8edf5" /></td>
   </tr>
   <tr>
