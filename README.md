@@ -48,29 +48,6 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
-## `$ git log --impact`
-
-> Real outcomes from real systems. No progress bars. Just results.
-
-```
-◆ Reduced regression cycle from 4h → 22min via Playwright parallelization
-  └─ Unblocked 3 release trains per week at a 200-person FinTech
-
-◆ Built Web3 QA infrastructure from zero to production
-  └─ Smart contract test coverage: 0% → 94% across 3 DeFi protocols
-
-◆ Eliminated $120K/yr in manual QA overhead
-  └─ Replaced 2,400 manual test hours with a fully automated regression suite
-
-◆ Designed CI quality gates that caught 98% of regressions pre-merge
-  └─ Mean-time-to-detect dropped from 3 days → under 4 minutes
-
-◆ Led performance baseline program for high-traffic eCommerce platform
-  └─ Identified critical memory leak before Black Friday — prevented estimated $80K revenue loss
-```
-
----
-
 ## `$ ls -la ./featured-work`
 
 <div align="center">
