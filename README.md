@@ -133,6 +133,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 **`── API & Contract Testing ──`**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-333333?style=flat-square)
 ![Rest Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?style=flat-square&logo=java&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
