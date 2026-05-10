@@ -52,8 +52,8 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 <div align="center">
 
-[![order-sentinel](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/order-sentinel)
-[![qrypto](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/qrypto)
+[![order-sentinel](https://[github-readme-stats.vercel.app](https://github-readme-stats-qa-ashutosh.vercel.app)/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/order-sentinel)
+[![qrypto](https://github-readme-stats-qa-ashutosh.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/qrypto)
 
 [![playwright-hybrid-framework](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=playwright-hybrid-framework&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=4)](https://github.com/qa-ashutosh/playwright-hybrid-framework)
 [![k6-performance-lab](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=k6-performance-lab&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/k6-performance-lab)
