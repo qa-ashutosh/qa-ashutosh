@@ -52,14 +52,14 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 <div align="center">
 
-[![order-sentinel](https://[github-readme-stats.vercel.app](https://github-readme-stats-qa-ashutosh.vercel.app)/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/order-sentinel)
-[![qrypto](https://github-readme-stats-qa-ashutosh.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/qrypto)
+[![order-sentinel](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=order-sentinel&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/order-sentinel)
+[![qrypto](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=qrypto&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/qrypto)
 
 [![playwright-hybrid-framework](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=playwright-hybrid-framework&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=4)](https://github.com/qa-ashutosh/playwright-hybrid-framework)
-[![k6-performance-lab](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=k6-performance-lab&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/k6-performance-lab)
+[![k6-performance-lab](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=k6-performance-lab&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/k6-performance-lab)
 
-[![solidity-core-labs](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=solidity-core-labs&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/solidity-core-labs)
-[![cicd-blueprints](https://github-readme-stats.vercel.app/api/pin/?username=qa-ashutosh&repo=cicd-blueprints&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/cicd-blueprints)
+[![solidity-core-labs](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=solidity-core-labs&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/solidity-core-labs)
+[![cicd-blueprints](https://github-readme-stats-ochre-gamma-64.vercel.app/api/pin/?username=qa-ashutosh&repo=cicd-blueprints&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&description_lines_count=3)](https://github.com/qa-ashutosh/cicd-blueprints)
 
 </div>
 
@@ -212,10 +212,10 @@ const qualityArchitect = {
 <br/>
 
 <table border="0" cellspacing="0" cellpadding="0">
-  <!-- <tr>
-    <td><img height="175" src="https://github-readme-stats.vercel.app/api?username=qa-ashutosh&cache_seconds=86400&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&ring_color=00FFC8" /></td>
-    <td><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qa-ashutosh&layout=compact&theme=transparent&hide_border=true&title_color=00FFC8&text_color=e8edf5" /></td>
-  </tr> -->
+  <tr>
+    <td><img height="175" src="https://github-readme-stats-ochre-gamma-64.vercel.app/api?username=qa-ashutosh&cache_seconds=86400&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC8&icon_color=00FFC8&text_color=e8edf5&ring_color=00FFC8" /></td>
+    <td><img height="175" src="https://github-readme-stats-ochre-gamma-64.vercel.app/api/top-langs/?username=qa-ashutosh&layout=compact&theme=transparent&hide_border=true&title_color=00FFC8&text_color=e8edf5" /></td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=qa-ashutosh&theme=transparent&hide_border=true&ring=00FFC8&fire=00FFC8&currStreakLabel=00FFC8&sideLabels=e8edf5&dates=888888&stroke=00FFC8&card_width=500" /></td>
   </tr>
