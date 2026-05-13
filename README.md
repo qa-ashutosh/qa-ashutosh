@@ -110,6 +110,25 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
+## `$ quality-risk-radar --interactive`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/qa-ashutosh/qa-ashutosh/main/assets/quality-risk-radar.gif" width="720" alt="quality risk radar demo"/>
+
+<br/>
+<br/>
+
+> Pick a stack. Get an architecture-level quality risk assessment for flakiness, coverage, contract parity, deploy safety, and more.
+
+<br/>
+
+[![Launch](https://img.shields.io/badge/▶%20Launch%20Radar-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628&logoColor=00FFC8)](https://qa-ashutosh.github.io/quality-risk-radar)
+
+</div>
+
+---
+
 ## `$ cat ./tech-stack.json`
 
 <div align="center">
