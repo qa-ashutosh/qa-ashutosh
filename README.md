@@ -44,7 +44,7 @@ currently   : Building → Web3 QA tooling · Crypto exchange test simulator
 open_to     : Quality Architecture · Platform Reliability · Engineering Leadership
 ```
 
-> *I don't just catch bugs — I eliminate the conditions that create them.*
+> *I don't just catch bugs, I eliminate the conditions that create them.*
 
 ---
 
@@ -70,7 +70,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 <div align="center">
   
 ```
-  The way I approach quality — from strategy to execution:
+  The way I approach quality from strategy to execution:
 
 
   PRODUCT REQUIREMENTS
@@ -191,7 +191,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ```js
 /**
- * Beyond the tool list — how I think about quality engineering
+ * Beyond the tool list, how I think about quality engineering
  * at the architecture and leadership level.
  */
 
