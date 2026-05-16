@@ -244,13 +244,16 @@ const qualityArchitect = {
 
 ---
 
+<!--
+
 ## `$ thought --today`
 
 <div align="center">
 
 [![QA Thought of the Day](https://img.shields.io/badge/QA%20Thought%20of%20the%20Day-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628)](https://qa-ashutosh.github.io/qa-thought)
 
-</div>
+ </div>
+-->
 
 ---
 
