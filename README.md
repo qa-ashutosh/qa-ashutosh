@@ -110,8 +110,6 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
-<!--
-
 ## `$ quality-risk-radar --interactive`
 
 <div align="center">
@@ -130,8 +128,6 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 </div>
  
 ---
-
---->
 
 ## `$ cat ./tech-stack.json`
 
