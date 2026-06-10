@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,50:0a1628,100:00FFC8&height=200&section=header&text=Ashutosh%20Parihar&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=Quality%20Engineering%20Architect&descSize=15&descAlignY=65&descColor=00FFC8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,50:0a1628,100:00FFC8&height=220&section=header&text=Ashutosh%20Parihar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Quality%20Engineering%20Architect%20%20%7C%20%2012%2B%20Years%20%C2%B7%20Regulated%20%26%20Mission-Critical%20Systems&descSize=13&descAlignY=58&descColor=00FFC8&animation=fadeIn)
 
-</div> 
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00FFC8&center=true&vCenter=true&width=680&lines=Building+quality+infrastructure+that+scales+with+the+product.;Web+Automation+%C2%B7+Performance+Engineering+%C2%B7+Web3+QA;From+test+strategy+to+architecture+%E2%80%94+I+own+the+full+picture.)](https://github.com/qa-ashutosh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00FFC8&center=true&vCenter=true&width=780&lines=Building+quality+infrastructure+that+scales+with+the+product.;Web+Automation+%C2%B7+Performance+Engineering+%C2%B7+Web3+QA;From+test+strategy+to+architecture+%2C+I+own+the+full+quality+lifecycle.;12%2B+years+in+regulated%2C+mission-critical+systems.;Open+to+Architecture+%26+Consulting+engagements.)](https://github.com/qa-ashutosh)
 
 <br/>
 
