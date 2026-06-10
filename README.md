@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,50:0a1628,100:00FFC8&height=220&section=header&text=Ashutosh%20Parihar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Quality%20Engineering%20Architect%20%20%7C%20%2012%2B%20Years%20%C2%B7%20Regulated%20%26%20Mission-Critical%20Systems&descSize=13&descAlignY=58&descColor=00FFC8&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:060910,50:0a1628,100:00FFC8&height=220&section=header&text=Ashutosh%20Parihar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Quality%20Engineering%20Architect%20%20%7C%20%2012%2B%20Years%20%20%7C%20%20Mission-Critical%20Systems&descSize=13&descAlignY=58&descColor=00FFC8&animation=fadeIn)
 
 </div>
 
