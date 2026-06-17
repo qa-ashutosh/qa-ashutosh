@@ -110,6 +110,8 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
+<!--
+
 ## `$ quality-risk-radar --interactive`
 
 <div align="center">
@@ -126,7 +128,9 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 [![Launch](https://img.shields.io/badge/▶%20Launch%20Radar-0a1628?style=for-the-badge&labelColor=0a1628&color=0a1628&logoColor=00FFC8)](https://qa-ashutosh.github.io/quality-risk-radar)
 
 </div>
- 
+
+-->
+
 ---
 
 ## `$ cat ./tech-stack.json`
