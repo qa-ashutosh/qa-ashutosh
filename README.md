@@ -28,7 +28,7 @@ location    : India
 philosophy  : "Quality is a product feature. I build the infrastructure that ships it."
 
 approach:
-  - I work upstream — shaping test strategy at the architecture phase, not after
+  - I work upstream, shaping test strategy at the architecture phase, not after
   - I translate quality risk into business language: velocity, incident cost, release confidence
   - I treat test infrastructure like production code: version-controlled, reviewed, maintained
 
