@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=ashutosh-parihar)](https://linkedin.com/in/ashutosh-parihar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=qa-ashutosh)](https://github.com/qa-ashutosh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&label=workwith.ashutosh3)](mailto:workwith.ashutosh3@gmail.com)
-[![Status](https://img.shields.io/badge/Open%20to-Architecture%20%26%20Consulting-00FFC8?style=flat-square&labelColor=0a1628)](https://linkedin.com/in/ashutosh-parihar)
+[![Status](https://img.shields.io/badge/Open%20to-Architecture%20%26%20Consulting-0F766E?style=flatsquare&labelColor=111827)](https://linkedin.com/in/ashutosh-parihar)
 
 </div>
 
