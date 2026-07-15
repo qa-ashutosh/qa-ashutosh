@@ -48,6 +48,18 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
 
 ---
 
+## `$ cat ./impact.log`
+
+| Impact Area | Outcome |
+|:---|:---|
+| **Automation Architecture** | Built scalable Web + API automation ecosystems for complex product platforms |
+| **Regression Efficiency** | Reduced regression execution time by up to **60%** through automation and CI integration |
+| **Coverage at Scale** | Designed quality strategies spanning **1,000+ test scenarios** across critical business flows |
+| **FinTech Reliability** | Validated trading, wallet, deposit, withdrawal, authentication, and transaction workflows |
+| **Quality Leadership** | Led QA strategy, framework architecture, team enablement, and cross-functional quality initiatives |
+
+---
+
 ## `$ ls -la ./featured-work`
 
 <div align="center">
