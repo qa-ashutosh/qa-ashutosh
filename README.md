@@ -36,7 +36,7 @@ specialization:
   - End-to-end automation frameworks (Playwright · Cypress · WebdriverIO · Selenium)
   - API & contract-level testing (REST · GraphQL · gRPC · Pact)
   - Performance & load engineering (K6 · JMeter · Grafana · InfluxDB)
-  - Web3 & blockchain QA (Smart Contracts · DeFi · NFT · Foundry · Hardhat)
+  - Web3 & blockchain QA (Smart Contracts · DeFi · Foundry · Hardhat)
   - CI/CD quality gates & release pipelines (GitHub Actions · GitLab CI · Jenkins)
 
 domains     : FinTech · Web3 · Healthcare · SaaS · IoT · eCommerce · Gaming
