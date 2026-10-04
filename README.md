@@ -23,7 +23,7 @@
 
 ```yaml
 name        : Ashutosh Parihar
-title       : Quality Engineering Architect
+title       : Quality Engineering Architect/Lead
 location    : India
 philosophy  : "Quality is a product feature. I build the infrastructure that ships it."
 
