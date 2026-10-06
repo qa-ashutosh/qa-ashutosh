@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00FFC8&center=true&vCenter=true&width=780&lines=Building+quality+infrastructure+that+scales+with+the+product.;Web+Automation+%C2%B7+Performance+Engineering+%C2%B7+Web3+QA;From+test+strategy+to+architecture+%2C+I+own+the+full+quality+lifecycle.;12%2B+years+in+regulated%2C+mission-critical+systems.;Open+to+Architecture+%26+Consulting+engagements.)](https://github.com/qa-ashutosh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1200&color=00FFC8&center=true&vCenter=true&width=780&lines=Building+quality+infrastructure+that+scales+with+the+product.;Web+Automation+%C2%B7+Performance+Engineering+%C2%B7+Web3+QA;From+test+strategy+to+architecture+%2C+I+own+the+full+quality+lifecycle.;13+years+in+regulated%2C+mission-critical+systems.;Open+to+Architecture+%26+Consulting+engagements.)](https://github.com/qa-ashutosh)
 
 <br/>
 
