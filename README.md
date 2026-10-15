@@ -112,7 +112,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
   ┌─────────────────────────────────────────────┐
   │            OBSERVABILITY LAYER              │
   │    Grafana · InfluxDB · Alert thresholds    │
-  │  Quality in production — not just pre-prod  │
+  │  Quality in production, not just pre-prod  │
   └─────────────────────────────────────────────┘
   │
   ▼
