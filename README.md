@@ -91,7 +91,7 @@ open_to     : Quality Architecture · Platform Reliability · Engineering Leader
   ┌─────────────────────────────────────────────┐
   │              SHIFT-LEFT LAYER               │
   │  Risk analysis · Acceptance criteria · BDD  │
-  │  I sit here — before the first line of code │
+  │  I sit here before the first line of code │
   └──────────────────────┬──────────────────────┘
   │
   ▼
