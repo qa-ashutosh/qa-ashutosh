@@ -44,7 +44,7 @@ currently   : Building → Web3 QA tooling · Crypto exchange test simulator
 open_to     : Quality Architecture · Platform Reliability · Engineering Leadership
 ```
 
-> *I don't just catch bugs, I eliminate the conditions that create them.*
+> *I don't just catch the bugs, I eliminate the conditions that create them.*
 
 ---
 
